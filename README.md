@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning Django
 - 🤔 I’m looking for help with understanding Artificial Intelligience
-- 📫 How to reach me: [chegegitiche254@gmail.com]
+- 📫 How to reach me: chegegitiche254@gmail.com
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gendi-kinji&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/emmanuelchege"><img src="https://api.daily.dev/devcards/v2/YFuSeGz5ylkofel3Z3Dtx.png?type=default&r=bjf" width="356" alt="Emmanuel Chege's Dev Card"/></a>
+<a href="https://app.daily.dev/emmanuelchege"><img src="https://api.daily.dev/devcards/v2/YFuSeGz5ylkofel3Z3Dtx.png?type=wide&r=bjf" width="652" alt="Emmanuel Chege's Dev Card"/></a>
 
 
 <!--
