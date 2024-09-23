@@ -37,6 +37,6 @@
 </p>
 
 <p align="left">
-  <a href="https://app.daily.dev/emmanuelchege"><img src="https://api.daily.dev/devcards/v2/YFuSeGz5ylkofel3Z3Dtx.png?type=wide&r=t46" width="652" alt="Emmanuel Chege's Dev Card"/></a>
+  <a href="https://app.daily.dev/chegegitiche"><img src="https://api.daily.dev/devcards/v2/YFuSeGz5ylkofel3Z3Dtx.png?type=wide&r=t46" width="652" alt="Chege Gitiche's Dev Card"/></a>
 </p>
 
