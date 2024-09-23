@@ -33,10 +33,6 @@
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chege-Gitiche&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
-
-<p align="left">
   <a href="https://app.daily.dev/chegegitiche"><img src="https://api.daily.dev/devcards/v2/YFuSeGz5ylkofel3Z3Dtx.png?type=wide&r=t46" width="652" alt="Chege Gitiche's Dev Card"/></a>
 </p>
 
