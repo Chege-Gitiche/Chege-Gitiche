@@ -1,4 +1,4 @@
-![👋 Hi, my name is Chege Gitiche](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
+![👋 Hi, my name is Chege Gitiche](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Chege-Gitiche&label=Profile%20views&color=0e75b6&style=flat)
 
