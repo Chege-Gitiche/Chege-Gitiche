@@ -1,4 +1,4 @@
-![👋 Hi, my name is Chege Gitiche](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Hi, my name is Chege Gitiche](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Chege-Gitiche&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -34,5 +34,9 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
+
+<p align="left">
+  <a href="https://app.daily.dev/emmanuelchege"><img src="https://api.daily.dev/devcards/v2/YFuSeGz5ylkofel3Z3Dtx.png?type=wide&r=t46" width="652" alt="Emmanuel Chege's Dev Card"/></a>
 </p>
 
